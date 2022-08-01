@@ -62,6 +62,17 @@ Overall Statistics:
 
 ## Deliverable 3: A written report for the school district analysis (README.md)
 
+## Report for the school district analysis
+
+Based on the information report we can see that in the per school summary Charter school including Thomas High School perform better than a District school in the average math and reading scores. Griffin High School should be consider a case study for district and charter school due to their high average and passing scores rates and with a lower per student budget. 
+
+It’s important to highlight that during this case study Charter school perform better than district school. In addition, this case show that school school size with less than 1000 students perform better than those Schools size with greater than 1000 students. 
+
+## Conclusion
+
+This data results are key for school principals and local school boards to allocate more resources and key metrics to help District school increase their math and reading performance as compared with the Charter schools. 
+
+School administrations should create more key metrics and programs to increase the math and reading performance of school size greater than 1000 students.
 
 
 ## Resources
